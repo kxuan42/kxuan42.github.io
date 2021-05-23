@@ -21,7 +21,13 @@
   <entry>
     <title>mysql基础</title>
     <url>/2021/05/22/mysql/</url>
-    <content><![CDATA[<p>##本单元目标<br>    一、为什么要学习数据库<br>    二、数据库的相关概念<br>        DBMS、DB、SQL<br>    三、数据库存储数据的特点<br>    四、初始MySQL<br>        MySQL产品的介绍<br>        MySQL产品的安装          ★<br>        MySQL服务的启动和停止     ★<br>        MySQL服务的登录和退出     ★<br>        MySQL的常见命令和语法规范<br>    五、DQL语言的学习   ★<br>        基础查询        ★<br>        条件查询         ★<br>        排序查询         ★<br>        常见函数        ★<br>        分组函数        ★<br>        分组查询           ★<br>        连接查询         ★<br>        子查询       √<br>        分页查询       ★<br>        union联合查询    √            </p>
+    <content><![CDATA[<p>##本单元目标<br>    一、为什么要学习数据库<br>    二、数据库的相关概念      </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>​        DBMS、DB、SQL<br>​    三、数据库存储数据的特点<br>​    四、初始MySQL<br>​        MySQL产品的介绍<br>​        MySQL产品的安装          ★<br>​        MySQL服务的启动和停止     ★<br>​        MySQL服务的登录和退出     ★<br>​        MySQL的常见命令和语法规范      </p>
+<span id="more"></span>
+
+<p>​    五、DQL语言的学习   ★<br>​        基础查询        ★<br>​        条件查询         ★<br>​        排序查询         ★<br>​        常见函数        ★<br>​        分组函数        ★<br>​        分组查询           ★<br>​        连接查询         ★<br>​        子查询       √<br>​        分页查询       ★<br>​        union联合查询    √<br>​        </p>
 <pre><code>六、DML语言的学习    ★             
     插入语句                        
     修改语句                        
